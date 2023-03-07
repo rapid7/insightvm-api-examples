@@ -60,4 +60,4 @@ The type of data required in the body will vary based on the endpoint being util
 
 ## Advanced
 
-For more information on advanced API topics, see our InsightVM console Python repository here: https://github.com/rapid7/vm-console-client-python
+For more information on advanced API topics, see our InsightVM console Python repository here: https://github.com/rapid7/vm-console-client-python and for Ruby repository here:  https://github.com/rapid7/vm-console-client-ruby
