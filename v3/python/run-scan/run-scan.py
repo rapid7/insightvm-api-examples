@@ -42,7 +42,7 @@ def runscan():
     SCANID = response["id"]
     return SCANID
 
-#Function to Check teh status of the scan kicked off
+#Function to Check the status of the scan that was kicked off
 def checkrunning():
     """Checksthe scan status of the scan created"""
     urllib3.disable_warnings()
