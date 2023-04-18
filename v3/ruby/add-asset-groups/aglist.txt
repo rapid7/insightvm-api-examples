@@ -1,0 +1,5 @@
+AG Name,Type
+one,static
+two,dynamic
+three,static
+four,dynamic
