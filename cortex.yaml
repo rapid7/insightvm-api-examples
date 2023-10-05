@@ -1,0 +1,15 @@
+---
+info:
+  title: Insightvm Api Examples
+  description: Created by Ivan Quintanilla via the GitHub Connector
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/insightvm-api-examples
+  x-cortex-tag: insightvm-api-examples
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: vm-documentation
+openapi: 3.0.1
+servers:
+- url: "/"
